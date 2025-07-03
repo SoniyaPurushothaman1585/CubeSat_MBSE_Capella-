@@ -1,0 +1,12 @@
+# Capella temp and backups
+*.bak
+*.log
+.capella
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
